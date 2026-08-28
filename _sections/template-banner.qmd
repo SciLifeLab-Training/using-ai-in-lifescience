@@ -1,3 +1,3 @@
 ::: {.template-banner}
-**Want to use this template?** Read the User Guide for step-by-step instructions on setting up and customising your course page. [View the User Guide →](https://scilifelab-training.github.io/scilifelab-course-webpage-template-user-guide/)
+Course material is currently under development. Please check back later for updates.
 :::

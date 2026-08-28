@@ -10,3 +10,4 @@ __pycache__/
 .venv/
 .DS_Store
 *_files/
+**/*.quarto_ipynb

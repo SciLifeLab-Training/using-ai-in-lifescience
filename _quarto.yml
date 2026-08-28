@@ -4,7 +4,7 @@ project:
   render:
     - index.qmd
   pre-render:
-    - python scripts/generate_landing.py
+    - python3 scripts/generate_landing.py
   resources:
     - img
 
