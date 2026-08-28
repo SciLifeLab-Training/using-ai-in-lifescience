@@ -1,0 +1,15 @@
+:::{.landing-footer}
+:::{.landing-footer__meta}
+By SciLifeLab Training Hub. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+
+Built with Quarto and hosted on GitHub Pages.
+:::
+
+:::{.landing-footer__actions}
+<a href="https://github.com/SciLifeLab-Training/scilifelab-training-template-staging/tree/main" class="landing-footer__image-link">
+  <img src="img/logos/Github_Neg.png"
+       alt="GitHub"
+       class="landing-footer__image">
+</a>
+:::
+:::

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this template, please cite it as below."
+
+title: "SciLifeLab Course Page Template"
+
+authors:
+  - family-names: "Luijten"
+    given-names: "Ineke"
+    orcid: "https://orcid.org/0000-0001-5768-275X"
+  - family-names: "Norgren"
+    given-names: "Nina"
+    orcid: "https://orcid.org/0000-0002-3823-1555"
+  - family-names: "Panouris"
+    given-names: "Dimitris"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+license: CC-BY-4.0
+
+repository-code: "https://github.com/SciLifeLab-Training/scilifelab-training-template-staging"
+url: "https://scilifelab-training.github.io/scilifelab-training-template-staging/"

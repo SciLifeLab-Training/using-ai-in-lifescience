@@ -1,0 +1,19 @@
+project:
+  type: default
+  output-dir: _site
+  render:
+    - index.qmd
+  pre-render:
+    - python scripts/generate_landing.py
+  resources:
+    - img
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    page-layout: full
+
+execute:
+  freeze: auto
