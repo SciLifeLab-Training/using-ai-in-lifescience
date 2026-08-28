@@ -1,0 +1,27 @@
+---
+title: "Schedule"
+author: "SciLifeLab Training Hub"
+date: "2025-05-14"
+---
+
+<br>
+
+##### Wednesday 14 May 2025
+
+| Time | Session |
+|------|------|
+| 09:00 - 10:15 | [Open Science foundations](module1.qmd) |
+| 10:15 - 10:45 | Coffee break |
+| 10:45 - 12:00 | [Sharing, publishing, and reuse](module2.qmd) |
+| 12:00 - 13:00 | Lunch |
+: {tbl-colwidths="[25,75]"} 
+
+<br/>
+     
+##### Thursday 15 May 2025
+
+| Time | Topic |
+|------|------|
+| 09:00 - 10:30 | Group discussion: applying Open Science locally |
+| 10:30 - 12:00 | Wrap-up and action planning |
+: {tbl-colwidths="[25,75]"} 

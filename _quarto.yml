@@ -1,19 +1,33 @@
 project:
-  type: default
-  output-dir: _site
-  render:
-    - index.qmd
-  pre-render:
-    - python scripts/generate_landing.py
-  resources:
-    - img
+  type: website
+
+# Release deploy target is derived from the branch name (`release-YYMM` -> `YYMM/`).
+# This file only configures the Quarto course site itself.
+
+website:
+  title: "Open Science in the Swedish Context"
+  sidebar:
+    style: "floating"
+    background: "#F4F6F6"
+    fontsize: 30px
+    search: true
+    contents: 
+      - index.qmd 
+      - schedule.qmd
+      - instructors.qmd
+      - module1.qmd
+      - module2.qmd
+  navbar:
+    background: "#A7C947"
+    logo: "img/SciLifeLab_Logotype_NEG.png"
+  favicon: "img/SciLifeLab_Logotype_NEG.png"
+
 
 format:
   html:
     theme: cosmo
     css: styles.css
-    toc: false
-    page-layout: full
+    toc: true
 
 execute:
   freeze: auto

@@ -1,75 +1,69 @@
-# SciLifeLab Course Webpage Template
+# Release Branch Course Template
 
-The SciLifeLab Course Webpage Template is a Quarto-based template for creating, publishing, and maintaining reusable training materials with GitHub Pages.
+This branch is the starter template for one course instance.
 
-The published template is available at:
+Use it to create branches like:
 
-**[SciLifeLab Course Webpage Template](https://scilifelab-training.github.io/scilifelab-training-template-staging/)**
+- `release-0000`
+- `release-2505`
+- `release-2511`
 
-The template provides:
+Each `release-YYMM` branch publishes one course instance to `gh-pages/YYMM/`.
 
-- a landing page for general information about a course;
-- separate course instances maintained in `release-YYMM` branches;
-- automated publication of the landing page and course instances through GitHub Pages.
+## What This Branch Is For
 
-## User Guide
+- course pages and navigation
+- course-specific Quarto configuration
+- styles and assets for one course run
 
-New to the template? See the **[SciLifeLab Course Webpage Template User Guide](https://scilifelab-training.github.io/scilifelab-course-webpage-template-user-guide/)**.
+This branch does **not** control the landing page at the root of the site. The landing page lives on `main`.
 
-The User Guide provides step-by-step instructions for:
+## Simple Workflow
 
-- setting up the template for a new course;
-- customising the landing page;
-- creating and managing course instances;
-- customising course instance pages;
-- previewing and publishing changes;
-- preparing training materials for publication, citation, and reuse.
+1. Create a new branch from `release-0000`.
+2. Name it `release-YYMM`, for example `release-2505`.
+3. Update the course content in that new branch.
+4. Push the branch.
+5. GitHub Actions renders the course and publishes it to `gh-pages/YYMM/`.
 
-## Working locally
+The output directory is derived from the branch name by the release workflow. You do not need to maintain a separate branch-mapping list in `_quarto.yml`.
 
--->  For detailed setup and step-by-step editing instructions, see the [User Guide](https://scilifelab-training.github.io/scilifelab-course-webpage-template-user-guide/).
+## What To Edit
 
-The website is built with [Quarto](https://quarto.org/).
+For normal course work, edit:
 
-After cloning the repository, create and activate the Python virtual environment:
+- the course `.qmd` pages
+- `_quarto.yml` for course-site settings like title, sidebar, navbar, and theme
+- images and other course assets
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
+## Local Preview
 
-Install the required dependencies:
-
-```bash
-python -m pip install --upgrade pip
-python -m pip install -r requirements-dev.txt
-```
-
-Render the site with:
+If you have Quarto installed, you can render locally:
 
 ```bash
 quarto render
 ```
 
-Or preview it locally with:
+Rendered output is written to `_site/`.
 
-```bash
-quarto preview
-```
+## GitHub Actions
 
-## Development and maintenance
+This branch uses `.github/workflows/main.yml`.
 
-Technical documentation for developers and maintainers of the template is available in [`docs/developer/`](docs/developer/).
+On push to a `release-*` branch, the workflow:
 
-This includes documentation of the landing-page architecture, validation, deployment, and migration from the legacy landing-page model.
+1. reads the branch name
+2. validates that it matches `release-YYMM`
+3. renders the course site
+4. publishes the result to the matching directory on `gh-pages`
 
-## Citation
+Examples:
 
-If you use the SciLifeLab Course Webpage Template, please cite as 
+- `release-0000` -> `gh-pages/0000/`
+- `release-2505` -> `gh-pages/2505/`
 
-Ineke Luijten, Nina Norgren & Dimitris Panouris (2026). The SciLifeLab Course Webpage Template (v1.0.0-alpha). Zenodo. https://doi.org/XX.XXXX/zenodo.XXXXX
+## Notes
 
-## Licence
-
-Unless otherwise stated, the SciLifeLab Course Page Template is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) licence](https://creativecommons.org/licenses/by/4.0/).
-
+- `gh-pages` is deployment output only
+- `.nojekyll` is kept by the workflow
+- the landing page branch (`main`) separately controls which instances appear on the landing page

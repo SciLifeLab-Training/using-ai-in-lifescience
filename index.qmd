@@ -1,15 +1,64 @@
 ---
-format:
-  html:
-    toc: false
-    page-layout: full
+title: "Course Syllabus"
+author: "SciLifeLab Training Hub"
+date: "2025-05-14"
 ---
 
-:::{.landing-shell}
-{{< include _sections/template-banner.qmd >}}
-{{< include _sections/hero.qmd >}}
-{{< include _sections/top-cards.qmd >}}
-{{< include _sections/instances-band.qmd >}}
-{{< include _sections/bottom-cards.qmd >}}
-{{< include _sections/footer.qmd >}}
+::: {.callout-warning icon=false}
+
+## About
+
+**Organizers:**                    SciLifeLab Training Hub  
+**Date:**                          14-15 May 2025  
+**Location:**                      SciLifeLab Solna and online  
+**Suggested number of credits:**   0 hp  
+**Enrollment opens:**              10 February 2025  
+**Enrollment closes:**             30 April 2025  
+**Course fee:**                    No fee
+
 :::
+
+Course lead: Open Science Team (SciLifeLab)
+
+Course contact: training@scilifelab.se
+
+## Course description
+
+This demo course instance showcases how a published course run appears when linked from the
+landing page as a previous instance.
+
+The course introduces practical Open Science approaches for planning research, sharing data and
+code responsibly, and communicating results for reuse across Swedish academia.
+
+## Learning Objectives and Learning Outcomes
+#### Learning Objectives
+
+- To understand the main Open Science principles used in Swedish research environments
+- To apply practical actions for planning, sharing, and publishing research outputs
+
+#### Learning Outcomes
+
+By the end of this course, learners will be able to:
+
+- describe the core Open Science concepts used in the course
+- identify practical steps that make research outputs more open and reusable
+
+## Target audience and course prerequisites
+
+**Target audience:** doctoral students, postdocs, research support staff
+**Course prerequisites:** none
+**Level:** beginner/intermediate
+
+
+## Forms of instruction and examination  
+
+**Forms of instruction:** In-person, digital communications  
+**Forms of study:** self-studies (incl. independent work), group activities, lectures, and discussion seminars  
+**Language:** English    
+**Examination:** Active participation in all sessions and group assignments.   
+
+
+
+## Additional notes  
+
+- This branch is used as a simple published example of a previous course instance.

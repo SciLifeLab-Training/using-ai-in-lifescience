@@ -1,0 +1,25 @@
+---
+title: "Open Science foundations"
+author: "SciLifeLab Training Hub"
+date: "2025-05-14"
+---
+
+::: {.callout-tip}
+### Learning Objectives
+
+By the end of this session, learners will be able to:
+
+- explain the core Open Science principles used across the course
+- connect research planning decisions to openness and reuse
+:::
+
+## Lectures and Materials
+
+- Introduction to Open Science in the Swedish context
+- Research planning for openness from the start
+- Examples of practical actions researchers can adopt immediately
+
+
+## Contributors
+
+- Open Science Team
