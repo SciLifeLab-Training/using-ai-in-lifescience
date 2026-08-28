@@ -1,0 +1,25 @@
+---
+title: "xAI"
+author: "X"
+date: today
+---
+
+::: {.callout-tip}
+### Learning Objectives
+
+By the end of this session, learners will be able to:
+
+- describe practical routes for sharing data, code, and publications
+- identify common barriers to reuse and how to reduce them
+:::
+
+## Lectures and Materials
+
+- FAIR data and responsible sharing practices
+- Open access publishing and science communication
+- Enabling reuse through documentation and licensing
+
+
+## Contributors
+
+- Open Science Team

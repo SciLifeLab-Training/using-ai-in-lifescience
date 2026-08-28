@@ -1,9 +1,55 @@
 /* css styles */
 
+/* ==========================================================================
+   Navbar partner logos
+
+   Two logos on the top row, one underneath. The markup is built by
+   _includes/navbar-logos.html; edit that file to change which logos appear.
+   ========================================================================== */
+
+.navbar-logos {
+    display: flex;
+    flex-direction: column;
+    /* Change to flex-start or flex-end to left/right-align the rows. */
+    align-items: center;
+    gap: 0.4rem;
+    /*
+     * The navbar is a flex row whose items Quarto orders explicitly: the
+     * brand/title is 2, the tool icons are 900 and search is 999. Order 1
+     * places the logos ahead of the title, where `navbar.logo` would put them.
+     * Use 3 to sit after the title instead, or 1000 for the far right.
+     */
+    order: 1;
+    padding: 0.35rem 1rem 0.35rem 0.5rem;
+}
+
+.navbar-logos__row {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: flex-end;
+    justify-content: center;
+    gap: 0.9rem;
+}
+
+/* Displayed height of each logo. Set a value on a single row to size the
+   rows independently, e.g. .navbar-logos__row--bottom .navbar-logos__img. */
+.navbar-logos__img {
+    display: block;
+    height: 1.5rem;
+    width: auto;
+    max-width: 100%;
+}
+
+/* `logo:` is unset in _quarto.yml, which leaves an empty brand link behind. */
+.navbar-brand-logo:empty {
+    display: none;
+}
+
 .navbar-title {
     font-size: x-large;
     font-weight: 800;
     padding-left: 30px;
+    color: #fff;
 }
 
 h1 {

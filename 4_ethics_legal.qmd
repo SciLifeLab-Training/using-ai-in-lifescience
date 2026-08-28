@@ -1,7 +1,7 @@
 ---
-title: "Sharing, publishing, and reuse"
-author: "SciLifeLab Training Hub"
-date: "2025-05-14"
+title: "Ethics and Legal"
+author: "X"
+date: today
 ---
 
 ::: {.callout-tip}

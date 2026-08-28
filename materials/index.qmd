@@ -1,0 +1,33 @@
+---
+title: "Template Presentation"
+subtitle: "Subtitle"
+author: 
+    name: "John Doe"
+    affiliations: 
+        - "National Bioinformatics Infrastructure Sweden (NBIS)"
+        - "Sweden AI Factory"
+format:
+  revealjs:
+    # Pick the title slide brand by choosing one of these partials.
+    template-partials:
+   #   - _brand/nbis/title-slide.html
+      - _brand/seaif/title-slide.html
+    theme: [serif, _brand/title-slide.scss]
+    slide-number: true
+    footer: "Short title | John Doe"
+date: "2025.11.10"
+date-format: long
+---
+
+# Big header
+
+
+## Slide header
+
+Normal text 
+
+## Slide header
+
+| table | table |
+|-------|-------|
+| table | table |

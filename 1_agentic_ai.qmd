@@ -1,7 +1,7 @@
 ---
-title: "Open Science foundations"
-author: "SciLifeLab Training Hub"
-date: "2025-05-14"
+title: "Agentic AI"
+author: "X"
+date: today
 ---
 
 ::: {.callout-tip}
@@ -18,6 +18,10 @@ By the end of this session, learners will be able to:
 - Introduction to Open Science in the Swedish context
 - Research planning for openness from the start
 - Examples of practical actions researchers can adopt immediately
+
+## Slides
+
+<iframe src="materials/index.html" width="100%" height="300px" style="border: none;"></iframe>
 
 
 ## Contributors

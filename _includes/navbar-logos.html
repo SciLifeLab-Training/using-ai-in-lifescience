@@ -1,0 +1,54 @@
+<!--
+  Places a stack of partner logos in the navbar: two logos on the top row and
+  one on the row underneath.
+
+  Why a script: Quarto's `navbar.logo` option accepts a single image only, and
+  text in navbar items is HTML-escaped, so multiple logos cannot be declared in
+  `_quarto.yml`. This inserts them into the rendered navbar instead.
+
+  To change which logos appear, edit the LOGOS lists below. Sizing, spacing and
+  alignment live in the `.navbar-logos` rules in styles.css.
+-->
+<script>
+(function () {
+  var LOGOS = {
+    // Top row, displayed side by side.
+    top: [
+      { src: "img/SEAIF logo white.svg", alt: "Sweden AI Factory" },
+      { src: "img/nbislogo-orange.svg", alt: "NBIS" }
+    ],
+    // Bottom row.
+    bottom: [
+      { src: "img/SciLifeLab_Logotype_NEG.png", alt: "SciLifeLab" }
+    ]
+  };
+
+  var container = document.querySelector(".navbar .navbar-container");
+  if (!container || container.querySelector(".navbar-logos")) return;
+
+  // Image paths in _quarto.yml are relative to the project root, while a
+  // rendered page may sit at any depth. The navbar brand link always points at
+  // the site root, so reuse it as the prefix.
+  var brand = document.querySelector(".navbar-brand-container a.navbar-brand");
+  var base = brand ? brand.getAttribute("href").replace(/index\.html$/, "") : "";
+
+  var stack = document.createElement("div");
+  stack.className = "navbar-logos";
+
+  ["top", "bottom"].forEach(function (rowName) {
+    if (!LOGOS[rowName] || LOGOS[rowName].length === 0) return;
+    var row = document.createElement("div");
+    row.className = "navbar-logos__row navbar-logos__row--" + rowName;
+    LOGOS[rowName].forEach(function (logo) {
+      var img = document.createElement("img");
+      img.className = "navbar-logos__img";
+      img.src = base + logo.src;
+      img.alt = logo.alt;
+      row.appendChild(img);
+    });
+    stack.appendChild(row);
+  });
+
+  container.appendChild(stack);
+})();
+</script>

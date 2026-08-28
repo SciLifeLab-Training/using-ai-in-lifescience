@@ -1,27 +1,21 @@
 ---
 title: "Schedule"
-author: "SciLifeLab Training Hub"
-date: "2025-05-14"
+author: "Nina Norgren"
+date: today
 ---
 
 <br>
 
-##### Wednesday 14 May 2025
+##### Wednesday 25 November 2026
 
 | Time | Session |
 |------|------|
-| 09:00 - 10:15 | [Open Science foundations](module1.qmd) |
-| 10:15 - 10:45 | Coffee break |
-| 10:45 - 12:00 | [Sharing, publishing, and reuse](module2.qmd) |
+| 09:00 - 10:15 | [Agentic AI](1_agentic_ai.qmd) |
+| 10:15 - 10:45 | Break |
+| 10:45 - 12:00 | [Cybersecurity](2_cybersecurity.qmd) |
 | 12:00 - 13:00 | Lunch |
+| 13:00 - 14:15 | [xAI](3_xAI.qmd) |
+| 14:15 - 14:45 | Break |
+| 14:45 - 16:00 | [Ethics and Legal](4_ethics_legal.qmd) |
 : {tbl-colwidths="[25,75]"} 
 
-<br/>
-     
-##### Thursday 15 May 2025
-
-| Time | Topic |
-|------|------|
-| 09:00 - 10:30 | Group discussion: applying Open Science locally |
-| 10:30 - 12:00 | Wrap-up and action planning |
-: {tbl-colwidths="[25,75]"} 

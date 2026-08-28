@@ -4,9 +4,9 @@ date: "2025-05-14"
 ---
 
 
-#### Open Science Team
+#### Sweden AI Factory
 
-##### SciLifeLab Training Hub
+##### Ashwin
 
 ::: {.grid}
 ::: {.g-col-2}
@@ -19,4 +19,29 @@ previous course run can look in the template.
 :::
 
 
-  
+##### Ashwin
+
+::: {.grid}
+::: {.g-col-2}
+![](img/john-doe.png){width=80}
+:::
+::: {.g-col-10}
+This demo course instance uses a simple team-level instructor entry to illustrate how a published
+previous course run can look in the template.
+:::
+:::
+
+
+#### NBIS
+
+##### Lars
+
+::: {.grid}
+::: {.g-col-2}
+![](img/john-doe.png){width=80}
+:::
+::: {.g-col-10}
+This demo course instance uses a simple team-level instructor entry to illustrate how a published
+previous course run can look in the template.
+:::
+:::

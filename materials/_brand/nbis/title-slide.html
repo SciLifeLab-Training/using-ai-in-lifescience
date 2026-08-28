@@ -1,0 +1,60 @@
+<!--
+  NBIS-branded title slide for revealjs.
+
+  Enable it in a deck's YAML, together with the shared stylesheet:
+
+      format:
+        revealjs:
+          theme: [serif, _brand/title-slide.scss]
+          template-partials:
+            - _brand/nbis/title-slide.html
+
+  A partial must be named title-slide.html to override that slot, which is why
+  each brand lives in its own directory. Switch brand by changing the one
+  template-partials line; everything else stays the same.
+
+  The structure follows Quarto's built-in `title-fancy` partial, so structured
+  `author:` metadata (name, email, affiliations) renders correctly.
+
+  Background artwork: img/nbis-title-bg.svg
+  Layout and palette:  _brand/title-slide.scss  (.brand-title--nbis)
+
+  If the deck sets `title-slide-attributes`, those attributes are emitted first
+  and win over the defaults below, so a background set there overrides this one.
+-->
+<section id="$idprefix$title-slide"$for(title-slide-attributes/pairs)$ $it.key$="$it.value$"$endfor$
+         data-background-image="img/nbis-title-bg.svg"
+         data-background-size="cover"
+         data-background-position="center"
+         class="quarto-title-block brand-title brand-title--nbis">
+
+  <img class="brand-title__mark" src="img/nbislogo-orange.svg" alt="NBIS">
+
+  <h1 class="title">$title$</h1>
+  <div class="brand-title__accent"></div>
+$if(subtitle)$
+  <p class="subtitle">$subtitle$</p>
+$endif$
+
+  <div class="quarto-title-authors">
+$for(by-author)$
+    <div class="quarto-title-author">
+      <div class="quarto-title-author-name">
+$if(by-author.url)$<a href="$by-author.url$">$endif$$if(by-author.name.literal)$$by-author.name.literal$$endif$$if(by-author.url)$</a>$endif$
+      </div>
+$if(by-author.email)$
+      <div class="quarto-title-author-email"><a href="mailto:$by-author.email$">$by-author.email$</a></div>
+$endif$
+$if(by-author.affiliations)$
+$for(by-author.affiliations)$
+      <p class="quarto-title-affiliation">$if(it.url)$<a href="$it.url$">$endif$$it.name$$if(it.url)$</a>$endif$</p>
+$endfor$
+$endif$
+    </div>
+$endfor$
+  </div>
+
+$if(date)$
+  <p class="date">$date$</p>
+$endif$
+</section>

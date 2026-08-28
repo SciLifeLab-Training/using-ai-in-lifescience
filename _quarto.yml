@@ -1,11 +1,13 @@
 project:
   type: website
+ resources:
+    - img/
 
 # Release deploy target is derived from the branch name (`release-YYMM` -> `YYMM/`).
 # This file only configures the Quarto course site itself.
 
 website:
-  title: "Open Science in the Swedish Context"
+  title: "Using AI in lifescience - A primer"
   sidebar:
     style: "floating"
     background: "#F4F6F6"
@@ -15,11 +17,22 @@ website:
       - index.qmd 
       - schedule.qmd
       - instructors.qmd
-      - module1.qmd
-      - module2.qmd
+      - name:
+          Agentic AI
+        href: 1_agentic_ai.qmd
+      - name:
+          Cybersecurity
+        href: 2_cybersecurity.qmd
+      - name:
+          xAI
+        href: 3_xAI.qmd
+      - name:
+          Ethics and Legal
+        href: 4_ethics_legal.qmd
   navbar:
-    background: "#A7C947"
-    logo: "img/SciLifeLab_Logotype_NEG.png"
+    background: "#075a63"
+    # The three partner logos are inserted by _includes/navbar-logos.html,
+    # because `logo:` here would only accept a single image.
   favicon: "img/SciLifeLab_Logotype_NEG.png"
 
 
@@ -27,6 +40,7 @@ format:
   html:
     theme: cosmo
     css: styles.css
+    include-after-body: _includes/navbar-logos.html
     toc: true
 
 execute:
