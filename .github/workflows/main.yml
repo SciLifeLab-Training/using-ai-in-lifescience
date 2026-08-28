@@ -1,0 +1,90 @@
+name: deploy-instance
+
+on:
+  push:
+    branches:
+      - release-*
+  workflow_dispatch:
+
+jobs:
+  deploy-instance:
+    runs-on: ubuntu-22.04
+    permissions:
+      contents: write
+    concurrency:
+      group: deploy-gh-pages
+      cancel-in-progress: true
+
+    steps:
+      - name: Checkout release branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve output directory
+        id: output
+        run: |
+          set -euo pipefail
+          BRANCH_NAME="${GITHUB_REF_NAME}"
+
+          if [[ "$BRANCH_NAME" != release-* ]]; then
+            echo "Expected a release branch, got: $BRANCH_NAME"
+            exit 1
+          fi
+
+          OUTPUT_DIR="${BRANCH_NAME#release-}"
+
+          if [[ ! "$OUTPUT_DIR" =~ ^[0-9]{4}$ ]]; then
+            echo "Output directory must be 4 digits (YYMM). Got: $OUTPUT_DIR"
+            exit 1
+          fi
+
+          echo "branch_name=$BRANCH_NAME" >> "$GITHUB_OUTPUT"
+          echo "output_dir=$OUTPUT_DIR" >> "$GITHUB_OUTPUT"
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: 1.3.340
+
+      - name: Render instance site
+        run: quarto render
+
+      - name: Checkout gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages
+          fetch-depth: 1
+
+      - name: Publish instance directory only
+        env:
+          OUTPUT_DIR: ${{ steps.output.outputs.output_dir }}
+        run: |
+          set -euo pipefail
+
+          rm -rf "gh-pages/${OUTPUT_DIR}"
+          mkdir -p "gh-pages/${OUTPUT_DIR}"
+          rsync -a --delete _site/ "gh-pages/${OUTPUT_DIR}/"
+          touch gh-pages/.nojekyll
+
+      - name: Commit and push
+        env:
+          OUTPUT_DIR: ${{ steps.output.outputs.output_dir }}
+          BRANCH_NAME: ${{ steps.output.outputs.branch_name }}
+        run: |
+          set -euo pipefail
+          cd gh-pages
+
+          git config user.email "do_not_email@example.com"
+          git config user.name "gh_action"
+
+          git add "${OUTPUT_DIR}" .nojekyll
+
+          if git diff --cached --quiet; then
+            echo "No instance changes to publish."
+            exit 0
+          fi
+
+          git commit -m "Update ${OUTPUT_DIR} from ${BRANCH_NAME} at $(date +%Y%m%d-%H%M%S)"
+          git push origin HEAD:gh-pages
