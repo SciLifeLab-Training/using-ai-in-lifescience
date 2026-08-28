@@ -1,6 +1,6 @@
 :::{.landing-footer}
 :::{.landing-footer__meta}
-By SciLifeLab Training Hub. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Built with Quarto and hosted on GitHub Pages.
 :::

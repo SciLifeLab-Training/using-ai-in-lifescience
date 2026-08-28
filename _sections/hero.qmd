@@ -13,11 +13,11 @@
 
 :::{.hero__copy}
 :::{.hero__title}
-Course title
+Using AI in lifescience
 :::
 
 :::{.hero__subtitle}
-Course subtitle
+A primer
 :::
 :::
 

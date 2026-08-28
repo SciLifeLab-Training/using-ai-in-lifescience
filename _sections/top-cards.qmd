@@ -59,11 +59,10 @@ Aliquam feugiat, neque in ultricies fermentum, tortor nunc dignissim nulla, non 
 </div>
 
 :::{.card-copy}
-- Topic 1
-- Topic 2
-- Topic 3
-- Topic 4
-- ...
+- Agentic AI
+- Cybersecurity
+- xAI
+- Ethics and Legal
 :::
 :::
 :::
