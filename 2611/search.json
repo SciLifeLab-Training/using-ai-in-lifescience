@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "instructors.html",
+    "href": "instructors.html",
+    "title": "Instructors",
+    "section": "",
+    "text": "Sweden AI Factory\n\nAshwin\n\n\n\n\n\nThis demo course instance uses a simple team-level instructor entry to illustrate how a published previous course run can look in the template.\n\n\n\n\nAshwin\n\n\n\n\n\nThis demo course instance uses a simple team-level instructor entry to illustrate how a published previous course run can look in the template.\n\n\n\n\n\nNBIS\n\nLars\n\n\n\n\n\nThis demo course instance uses a simple team-level instructor entry to illustrate how a published previous course run can look in the template."
+  },
+  {
+    "objectID": "4_ethics_legal.html",
+    "href": "4_ethics_legal.html",
+    "title": "Ethics and Legal",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\ndescribe practical routes for sharing data, code, and publications\nidentify common barriers to reuse and how to reduce them"
+  },
+  {
+    "objectID": "4_ethics_legal.html#lectures-and-materials",
+    "href": "4_ethics_legal.html#lectures-and-materials",
+    "title": "Ethics and Legal",
+    "section": "Lectures and Materials",
+    "text": "Lectures and Materials\n\nFAIR data and responsible sharing practices\nOpen access publishing and science communication\nEnabling reuse through documentation and licensing"
+  },
+  {
+    "objectID": "4_ethics_legal.html#contributors",
+    "href": "4_ethics_legal.html#contributors",
+    "title": "Ethics and Legal",
+    "section": "Contributors",
+    "text": "Contributors\n\nOpen Science Team"
+  },
+  {
+    "objectID": "2_cybersecurity.html",
+    "href": "2_cybersecurity.html",
+    "title": "Cybersecurity",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\ndescribe practical routes for sharing data, code, and publications\nidentify common barriers to reuse and how to reduce them"
+  },
+  {
+    "objectID": "2_cybersecurity.html#lectures-and-materials",
+    "href": "2_cybersecurity.html#lectures-and-materials",
+    "title": "Cybersecurity",
+    "section": "Lectures and Materials",
+    "text": "Lectures and Materials\n\nFAIR data and responsible sharing practices\nOpen access publishing and science communication\nEnabling reuse through documentation and licensing"
+  },
+  {
+    "objectID": "2_cybersecurity.html#contributors",
+    "href": "2_cybersecurity.html#contributors",
+    "title": "Cybersecurity",
+    "section": "Contributors",
+    "text": "Contributors\n\nOpen Science Team"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Using AI in lifescience - A primer",
+    "section": "",
+    "text": "About\n\n\n\nOrganizers: Sweden AI Factory, NBIS, SciLifeLab Training Hub\nDate: 25 November 2026\nLocation: Online\nEnrollment opens: X September 2026\nEnrollment closes: 24 November 2026\nCourse fee: No fee\nCourse lead: SciLifeLab Training Hub\nCourse contact: traininghub@scilifelab.se"
+  },
+  {
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Using AI in lifescience - A primer",
+    "section": "Course description",
+    "text": "Course description\nThis demo course instance showcases how a published course run appears when linked from the landing page as a previous instance.\nThe course introduces practical Open Science approaches for planning research, sharing data and code responsibly, and communicating results for reuse across Swedish academia."
+  },
+  {
+    "objectID": "index.html#learning-objectives-and-learning-outcomes",
+    "href": "index.html#learning-objectives-and-learning-outcomes",
+    "title": "Using AI in lifescience - A primer",
+    "section": "Learning Objectives and Learning Outcomes",
+    "text": "Learning Objectives and Learning Outcomes\n\nLearning Objectives\n\nTo understand the main Open Science principles used in Swedish research environments\nTo apply practical actions for planning, sharing, and publishing research outputs\n\n\n\nLearning Outcomes\nBy the end of this course, learners will be able to:\n\ndescribe the core Open Science concepts used in the course\nidentify practical steps that make research outputs more open and reusable"
+  },
+  {
+    "objectID": "index.html#target-audience-and-course-prerequisites",
+    "href": "index.html#target-audience-and-course-prerequisites",
+    "title": "Using AI in lifescience - A primer",
+    "section": "Target audience and course prerequisites",
+    "text": "Target audience and course prerequisites\nTarget audience: doctoral students, postdocs, research support staff\nCourse prerequisites: none\nLevel: beginner/intermediate"
+  },
+  {
+    "objectID": "index.html#forms-of-instruction-and-examination",
+    "href": "index.html#forms-of-instruction-and-examination",
+    "title": "Using AI in lifescience - A primer",
+    "section": "Forms of instruction and examination",
+    "text": "Forms of instruction and examination\nForms of instruction: Lectures, group activities\nLanguage: English\nExamination: Active participation in all sessions and group assignments"
+  },
+  {
+    "objectID": "materials/index.html#slide-header",
+    "href": "materials/index.html#slide-header",
+    "title": "Template Presentation",
+    "section": "Slide header",
+    "text": "Slide header\nNormal text"
+  },
+  {
+    "objectID": "materials/index.html#slide-header-1",
+    "href": "materials/index.html#slide-header-1",
+    "title": "Template Presentation",
+    "section": "Slide header",
+    "text": "Slide header\n\n\n\ntable\ntable\n\n\n\n\ntable\ntable\n\n\n\n\n\nShort title | John Doe"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Wednesday 25 November 2026\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:00 - 10:15\nAgentic AI\n\n\n10:15 - 10:45\nBreak\n\n\n10:45 - 12:00\nCybersecurity\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 14:15\nxAI\n\n\n14:15 - 14:45\nBreak\n\n\n14:45 - 16:00\nEthics and Legal"
+  },
+  {
+    "objectID": "1_agentic_ai.html",
+    "href": "1_agentic_ai.html",
+    "title": "Agentic AI",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nexplain the core Open Science principles used across the course\nconnect research planning decisions to openness and reuse"
+  },
+  {
+    "objectID": "1_agentic_ai.html#lectures-and-materials",
+    "href": "1_agentic_ai.html#lectures-and-materials",
+    "title": "Agentic AI",
+    "section": "Lectures and Materials",
+    "text": "Lectures and Materials\n\nIntroduction to Open Science in the Swedish context\nResearch planning for openness from the start\nExamples of practical actions researchers can adopt immediately"
+  },
+  {
+    "objectID": "1_agentic_ai.html#slides",
+    "href": "1_agentic_ai.html#slides",
+    "title": "Agentic AI",
+    "section": "Slides",
+    "text": "Slides"
+  },
+  {
+    "objectID": "1_agentic_ai.html#contributors",
+    "href": "1_agentic_ai.html#contributors",
+    "title": "Agentic AI",
+    "section": "Contributors",
+    "text": "Contributors\n\nOpen Science Team"
+  },
+  {
+    "objectID": "3_xAI.html",
+    "href": "3_xAI.html",
+    "title": "xAI",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\ndescribe practical routes for sharing data, code, and publications\nidentify common barriers to reuse and how to reduce them"
+  },
+  {
+    "objectID": "3_xAI.html#lectures-and-materials",
+    "href": "3_xAI.html#lectures-and-materials",
+    "title": "xAI",
+    "section": "Lectures and Materials",
+    "text": "Lectures and Materials\n\nFAIR data and responsible sharing practices\nOpen access publishing and science communication\nEnabling reuse through documentation and licensing"
+  },
+  {
+    "objectID": "3_xAI.html#contributors",
+    "href": "3_xAI.html#contributors",
+    "title": "xAI",
+    "section": "Contributors",
+    "text": "Contributors\n\nOpen Science Team"
+  }
+]
