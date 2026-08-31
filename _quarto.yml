@@ -1,6 +1,6 @@
 project:
   type: website
- resources:
+  resources:
     - img/
 
 # Release deploy target is derived from the branch name (`release-YYMM` -> `YYMM/`).
