@@ -34,7 +34,7 @@ The website is built with [Quarto](https://quarto.org/).
 After cloning the repository, create and activate the Python virtual environment:
 
 ```bash
-python3 -m venv .venv
+python -m venv .venv
 source .venv/bin/activate
 ```
 
