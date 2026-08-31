@@ -1,7 +1,7 @@
 :::{.hero}
 :::{.hero__brand}
 <div class="hero__brand-item">
-  <img src="img/logos/SciLifeLab_Logotype_NEG.png" alt="Sweden AI Factory" class="hero__partner-logo">
+  <img src="img/logos/SEAIF-logo-white.svg" alt="Sweden AI Factory" class="hero__partner-logo">
 </div>
 <div class="hero__brand-item">
   <img src="img/logos/nbislogo-green-orange.svg" alt="NBIS" class="hero__partner-logo">
