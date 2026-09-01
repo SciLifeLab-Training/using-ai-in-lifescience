@@ -4,7 +4,7 @@
     "href": "instructors.html",
     "title": "Instructors",
     "section": "",
-    "text": "Sweden AI Factory\n\nAshwin\n\n\n\n\n\nThis demo course instance uses a simple team-level instructor entry to illustrate how a published previous course run can look in the template.\n\n\n\n\nAshwin\n\n\n\n\n\nThis demo course instance uses a simple team-level instructor entry to illustrate how a published previous course run can look in the template.\n\n\n\n\n\nNBIS\n\nLars\n\n\n\n\n\nThis demo course instance uses a simple team-level instructor entry to illustrate how a published previous course run can look in the template."
+    "text": "Sweden AI Factory\n\nAshwin\n\n\n\n\n\nThis demo course instance uses a simple team-level instructor entry to illustrate how a published previous course run can look in the template.\n\n\n\n\nAshwin\n\n\n\n\n\nThis demo course instance uses a simple team-level instructor entry to illustrate how a published previous course run can look in the template.\n\n\n\n\n\nNBIS\n\nMarcin Kierczak, PhD\n\n\n\n\n\nMarcin’s doctoral studies have been focused on applying machine learning and AI to predicting protein features and mutation effects. Early on he became interested in xAI and worked with the development of novel feature selection and interdependency discovery methods. Later on he focused on statistical learning applied to population genomics and epistatic interactions. He is passionate about applying, developing and teaching xAI to lifescience community. Marcin is an associate professor in bioinformatics and bioinformatics expert at NBIS.\n\n\n\n\nLars\n\n\n\n\n\nThis demo course instance uses a simple team-level instructor entry to illustrate how a published previous course run can look in the template."
   },
   {
     "objectID": "4_ethics_legal.html",
@@ -60,14 +60,14 @@
     "href": "index.html#course-description",
     "title": "Using AI in lifescience - A primer",
     "section": "Course description",
-    "text": "Course description\nThis demo course instance showcases how a published course run appears when linked from the landing page as a previous instance.\nThe course introduces practical Open Science approaches for planning research, sharing data and code responsibly, and communicating results for reuse across Swedish academia."
+    "text": "Course description\nThis course introduces you to using AI in lifescience. It covers a number of topics that you should be familiar with if you want to use AI consciously and responsibly in your work. We will introduce you to:\n\nworking with agentic AI\ncybersecurity challanges specific to AI-assisted work\nexplainable AI illustrated with real life examples\nlegal and ethical aspects of AI-assisted work\n\nThroughout the course, we will be focusing on providing examples and illustrating new concepts using cases taken from lifescience such as lab practise, clinical medicine, pharmacy etc."
   },
   {
     "objectID": "index.html#learning-objectives-and-learning-outcomes",
     "href": "index.html#learning-objectives-and-learning-outcomes",
     "title": "Using AI in lifescience - A primer",
     "section": "Learning Objectives and Learning Outcomes",
-    "text": "Learning Objectives and Learning Outcomes\n\nLearning Objectives\n\nTo understand the main Open Science principles used in Swedish research environments\nTo apply practical actions for planning, sharing, and publishing research outputs\n\n\n\nLearning Outcomes\nBy the end of this course, learners will be able to:\n\ndescribe the core Open Science concepts used in the course\nidentify practical steps that make research outputs more open and reusable"
+    "text": "Learning Objectives and Learning Outcomes\n\nLearning Objectives\n\nto understand the basics of agentic work\nto be aware of AI-specific cybersecurity challenges and threats and how to prevent them\nto understand what xAI is and why it is particularly important in lifescience\nto be aware of legal implications and challanges related to using AI in your work\nto be aware of ethical aspects of AI-assisted work\n\n\n\nLearning Outcomes\nBy the end of this course, learners will be able to:\n\nuse agents to assist you with simple tasks\nidentify potential cybersecurity threats and bottlenecks in AI-assisted work\nknow how to mitigate the most common cybersecurity risks in their work\nunderstand what xAI is and be able to explain this concept\nknow selected examples of xAI techniques used in lifescience\nevaluate legal and ethical aspects of AI workflows\nplan their AI workflows with ethical and legal perspective in mind"
   },
   {
     "objectID": "index.html#target-audience-and-course-prerequisites",
