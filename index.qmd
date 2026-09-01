@@ -23,24 +23,38 @@ Course contact: traininghub@scilifelab.se
 
 ## Course description
 
-This demo course instance showcases how a published course run appears when linked from the
-landing page as a previous instance.
+This course introduces you to using AI in lifescience. It covers a number of topics that you should be familiar with if you want to use 
+AI consciously and responsibly in your work. We will introduce you to:
 
-The course introduces practical Open Science approaches for planning research, sharing data and
-code responsibly, and communicating results for reuse across Swedish academia.
+- working with agentic AI
+- cybersecurity challanges specific to AI-assisted work
+- explainable AI illustrated with real life examples
+- legal and ethical aspects of AI-assisted work
+
+Throughout the course, we will be focusing on providing examples and illustrating new concepts using cases 
+taken from lifescience such as lab practise, clinical medicine, pharmacy etc. 
 
 ## Learning Objectives and Learning Outcomes
 #### Learning Objectives
 
-- To understand the main Open Science principles used in Swedish research environments
-- To apply practical actions for planning, sharing, and publishing research outputs
+- to understand the basics of agentic work
+- to be aware of AI-specific cybersecurity challenges and threats and how to prevent them
+- to understand what xAI is and why it is particularly important in lifescience
+- to be aware of legal implications and challanges related to using AI in your work
+- to be aware of ethical aspects of AI-assisted work
 
 #### Learning Outcomes
 
 By the end of this course, learners will be able to:
 
-- describe the core Open Science concepts used in the course
-- identify practical steps that make research outputs more open and reusable
+- use agents to assist you with simple tasks
+- identify potential cybersecurity threats and bottlenecks in AI-assisted work
+- know how to mitigate the most common cybersecurity risks in their work
+- understand what xAI is and be able to explain this concept
+- know selected examples of xAI techniques used in lifescience
+- evaluate legal and ethical aspects of AI workflows
+- plan their AI workflows with ethical and legal perspective in mind
+
 
 ## Target audience and course prerequisites
 
