@@ -1,6 +1,6 @@
 ---
 title: "xAI"
-author: "X"
+author: "Ivan Cucchi, Marcin Kierczak"
 date: today
 ---
 
@@ -9,17 +9,18 @@ date: today
 
 By the end of this session, learners will be able to:
 
-- describe practical routes for sharing data, code, and publications
-- identify common barriers to reuse and how to reduce them
+- understand what Explainable AI (xAI) is, explain the concept, and recognize why it is particularly important in life sciences
+- identify relevant xAI techniques for selected real-world scenarios (e.g., lab practice, clinical medicine, pharmacy)
 :::
 
 ## Lectures and Materials
 
-- FAIR data and responsible sharing practices
-- Open access publishing and science communication
-- Enabling reuse through documentation and licensing
-
+- **Introduction to xAI:** The "black box" problem and why transparency is crucial for trust in life sciences and healthcare
+- **xAI in Practice:** Real-life examples of xAI techniques used to interpret biological data and clinical models
+- **Interpreting Explanations:** What xAI really tells us vs. what we *think* it tells us
+- **Safety and Reliability:** Can we trust xAI? Vulnerabilities and the illusion of explanation
 
 ## Contributors
 
-- Open Science Team
+- Ivan Cucchi
+- Marcin Kierczak
