@@ -31,6 +31,16 @@ previous course run can look in the template.
 :::
 :::
 
+##### Ivan Cucchi, PhD
+
+::: {.grid}
+::: {.g-col-2}
+![](img/ivan-cucchi.jpeg){width=80}
+:::
+::: {.g-col-10}
+A mathematician by training, Ivan holds a Ph.D. in Computational Mathematics, Learning, and Data Science. His academic journey evolved from modeling cardiac electrophysiology and applying AI to ECG analysis, to merging scientific machine learning with structural bioinformatics. His core expertise lies in combining deep learning architectures with molecular dynamics to model biomolecular systems, evaluate protein stability, and classify ligands. Today, Ivan is an Application Specialist in AI for Life Science at Stockholm University and SciLifeLab, working within the Sweden AI Factory in collaboration with NAISS.
+:::
+
 
 #### NBIS
 
