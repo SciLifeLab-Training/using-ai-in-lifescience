@@ -8,9 +8,9 @@
 </div>
 
 :::{.people-list}
-- Course founder 1
-- Course founder 2
-- ...
+- Ashwin V Mohanan (Sweden AI Factory)
+- Nina Norgren (SciLife Lab)
+- Elin Kronander (NBIS)
 :::
 :::
 
@@ -23,9 +23,9 @@
 </div>
 
 :::{.people-list}
-- Contributor 1
-- Contributor 2
-- ... 
+- Ivan Cucci (Sweden AI Factory) 
+- Lars Eklund (NBIS)
+- Marcin Kierczak (NBIS)
 :::
 :::
 :::
