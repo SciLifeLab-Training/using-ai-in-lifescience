@@ -1,7 +1,7 @@
 ---
 title: "Cybersecurity"
-author: "X"
-date: today
+author: "Abdul Ghafoor"
+date: 2026-09-15
 ---
 
 ::: {.callout-tip}
@@ -9,17 +9,20 @@ date: today
 
 By the end of this session, learners will be able to:
 
-- describe practical routes for sharing data, code, and publications
-- identify common barriers to reuse and how to reduce them
+- understand the basics of what happens when we give AI access to an engineer's, scientist's, or researcher's actual working environment
+- know the most common security risks when AI agents have their hands on their data
+- know ways to minimize such risks
+- understand basic considerations with respect to cybersecurity and privacy when using AI for their work
+- reason around questions about what we should allow AI agents to see, do, change, and decide
 :::
 
 ## Lectures and Materials
 
-- FAIR data and responsible sharing practices
-- Open access publishing and science communication
-- Enabling reuse through documentation and licensing
+- a
+- b
+- c
 
 
 ## Contributors
 
-- Open Science Team
+- Abdul Ghafoor
