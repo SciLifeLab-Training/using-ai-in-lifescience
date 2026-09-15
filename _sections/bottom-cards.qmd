@@ -10,7 +10,7 @@
 :::{.people-list}
 - Ashwin V Mohanan (Sweden AI Factory)
 - Nina Norgren (SciLife Lab)
-- Elin Kronander (NBIS)
+- Elin Kronander, Louella Vasquez, Marcin Kierczak (NBIS)
 :::
 :::
 
