@@ -28,6 +28,7 @@ Throughout the course, we will be focusing on providing examples and illustratin
 </div>
 
 :::{.card-copy}
+By the end of the course you will be able to: 
 1. use agents to assist you with simple tasks
 2. identify potential cybersecurity threats and bottlenecks in AI-assisted work
 3. know how to mitigate the most common cybersecurity risks in their work
