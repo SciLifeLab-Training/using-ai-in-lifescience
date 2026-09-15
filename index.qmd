@@ -27,7 +27,7 @@ This course introduces you to using AI in lifescience. It covers a number of top
 AI consciously and responsibly in your work. We will introduce you to:
 
 - working with agentic AI
-- cybersecurity challanges specific to AI-assisted work
+- cybersecurity challenges specific to AI-assisted work
 - explainable AI illustrated with real life examples
 - legal and ethical aspects of AI-assisted work
 
@@ -40,7 +40,7 @@ taken from lifescience such as lab practise, clinical medicine, pharmacy etc.
 - to understand the basics of agentic work
 - to be aware of AI-specific cybersecurity challenges and threats and how to prevent them
 - to understand what xAI is and why it is particularly important in lifescience
-- to be aware of legal implications and challanges related to using AI in your work
+- to be aware of legal implications and challenges related to using AI in your work
 - to be aware of ethical aspects of AI-assisted work
 
 #### Learning Outcomes
@@ -48,7 +48,7 @@ taken from lifescience such as lab practise, clinical medicine, pharmacy etc.
 By the end of this course, learners will be able to:
 
 - use agents to assist you with simple tasks
-- identify potential cybersecurity threats and bottlenecks in AI-assisted work
+- identify potential cybersecurity threats in AI-assisted work
 - know how to mitigate the most common cybersecurity risks in their work
 - understand what xAI is and be able to explain this concept
 - know selected examples of xAI techniques used in lifescience
