@@ -8,7 +8,7 @@
 </div>
 
 :::{.people-list}
-- Ashwin V Mohanan (Sweden AI Factory)
+- David Eklund, Ashwin V Mohanan (Sweden AI Factory)
 - Nina Norgren (SciLife Lab)
 - Elin Kronander, Louella Vasquez, Marcin Kierczak (NBIS)
 :::
