@@ -11,21 +11,21 @@
     "href": "4_ethics_legal.html",
     "title": "Ethics and Legal",
     "section": "",
-    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\ndescribe practical routes for sharing data, code, and publications\nidentify common barriers to reuse and how to reduce them"
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nevaluate legal and ethical aspects of AI workflows\nplan their AI workflows with ethical and legal perspective in mind"
   },
   {
     "objectID": "4_ethics_legal.html#lectures-and-materials",
     "href": "4_ethics_legal.html#lectures-and-materials",
     "title": "Ethics and Legal",
     "section": "Lectures and Materials",
-    "text": "Lectures and Materials\n\nFAIR data and responsible sharing practices\nOpen access publishing and science communication\nEnabling reuse through documentation and licensing"
+    "text": "Lectures and Materials\n\nTBA"
   },
   {
     "objectID": "4_ethics_legal.html#contributors",
     "href": "4_ethics_legal.html#contributors",
     "title": "Ethics and Legal",
     "section": "Contributors",
-    "text": "Contributors\n\nOpen Science Team"
+    "text": "Contributors\n\nLars Eklund"
   },
   {
     "objectID": "2_cybersecurity.html",
@@ -39,7 +39,7 @@
     "href": "2_cybersecurity.html#lectures-and-materials",
     "title": "Cybersecurity",
     "section": "Lectures and Materials",
-    "text": "Lectures and Materials\n\na\nb\nc"
+    "text": "Lectures and Materials\n\nTBA"
   },
   {
     "objectID": "2_cybersecurity.html#contributors",
@@ -53,7 +53,7 @@
     "href": "index.html",
     "title": "Using AI in lifescience - A primer",
     "section": "",
-    "text": "About\n\n\n\nOrganizers: Sweden AI Factory, NBIS, SciLifeLab Training Hub\nDate: 25 November 2026\nLocation: Online\nEnrollment opens: X September 2026\nEnrollment closes: 24 November 2026\nCourse fee: No fee\nCourse lead: SciLifeLab Training Hub\nCourse contact: traininghub@scilifelab.se"
+    "text": "About\n\n\n\nOrganizers: Sweden AI Factory, NBIS, SciLifeLab Training Hub\nDate: 25 November 2026\nLocation: Online\nEnrollment opens: 30 September 2026\nEnrollment closes: 24 November 2026\nCourse fee: No fee\nCourse lead: SciLifeLab Training Hub\nCourse contact: traininghub@scilifelab.se"
   },
   {
     "objectID": "index.html#course-description",
