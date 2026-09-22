@@ -1,6 +1,6 @@
 ---
 title: "Agentic AI"
-author: "X"
+author: "Ashwin Mohanan"
 date: today
 ---
 
@@ -9,21 +9,24 @@ date: today
 
 By the end of this session, learners will be able to:
 
-- explain the core Open Science principles used across the course
-- connect research planning decisions to openness and reuse
+- Understand what an LLM is and differences between properietary and open-weight models
+- Explain key features of Agentic AI workflow (permissions, context engineering, tool-calling, system prompt, skills etc)
+- Understand pros- and cons- of various context engineering techniques.
 :::
 
 ## Lectures and Materials
 
-- Introduction to Open Science in the Swedish context
-- Research planning for openness from the start
-- Examples of practical actions researchers can adopt immediately
+Tentative
+
+- Introduction to LLMs
+- Agentic AI core concepts
+- Agentic AI fundamentals through the lens of a AI coding harness
 
 ## Slides
 
-<iframe src="materials/index.html" width="100%" height="300px" style="border: none;"></iframe>
+<!-- iframe src="materials/index.html" width="100%" height="300px" style="border: none;"></iframe -->
 
 
 ## Contributors
 
-- Open Science Team
+- Ashwin Mohanan
