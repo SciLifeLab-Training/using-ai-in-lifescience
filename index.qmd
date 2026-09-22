@@ -11,7 +11,7 @@ date: today
 **Organizers:**                    Sweden AI Factory, NBIS, SciLifeLab Training Hub  
 **Date:**                          25 November 2026  
 **Location:**                      Online  
-**Enrollment opens:**              X September 2026  
+**Enrollment opens:**              30 September 2026  
 **Enrollment closes:**             24 November 2026  
 **Course fee:**                    No fee
 

@@ -9,17 +9,15 @@ date: today
 
 By the end of this session, learners will be able to:
 
-- describe practical routes for sharing data, code, and publications
-- identify common barriers to reuse and how to reduce them
+- evaluate legal and ethical aspects of AI workflows
+- plan their AI workflows with ethical and legal perspective in mind
 :::
 
 ## Lectures and Materials
 
-- FAIR data and responsible sharing practices
-- Open access publishing and science communication
-- Enabling reuse through documentation and licensing
+- TBA
 
 
 ## Contributors
 
-- Open Science Team
+- Lars Eklund
