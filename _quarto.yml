@@ -17,7 +17,9 @@ website:
       - index.qmd 
       - schedule.qmd
       - instructors.qmd
-      - text: "<hr>"
+
+      - text: "---"
+
       - name:
           Agentic AI
         href: 1_agentic_ai.qmd
@@ -30,6 +32,7 @@ website:
       - name:
           Ethics and Legal
         href: 4_ethics_legal.qmd
+
   navbar:
     background: "#075a63"
     # The three partner logos are inserted by _includes/navbar-logos.html,
