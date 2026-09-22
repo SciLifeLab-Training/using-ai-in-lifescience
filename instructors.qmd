@@ -6,19 +6,6 @@ date: "2025-05-14"
 
 #### Sweden AI Factory
 
-##### Ashwin
-
-::: {.grid}
-::: {.g-col-2}
-![](img/john-doe.png){width=80}
-:::
-::: {.g-col-10}
-This demo course instance uses a simple team-level instructor entry to illustrate how a published
-previous course run can look in the template.
-:::
-:::
-
-
 ##### Ashwin Mohanan, PhD
 
 ::: {.grid}
@@ -61,7 +48,8 @@ A mathematician by training, Ivan holds a Ph.D. in Computational Mathematics, Le
 ![](img/abdul_ghafoor.jpg){width=80}
 :::
 ::: {.g-col-10}
-Abdul Ghafoor is an Application Security Specialist with over a decade of experience in secure application development and vulnerability assessment. He holds a Ph.D. in Application Security from KTH Royal Institute of Technology (Sweden), where his research focused on secure-by-design applications, shift-left security, and the use of AI in cybersecurity. He specializes in source code analysis and comprehensive risk and vulnerability assessment using manual, automated, and AI-driven techniques, with a strong focus on modern architectures, including microservices and AI pipelines. His work supports critical security needs such as secure data sharing, data sovereignty, and compliance-driven application security.
+Abdul Ghafoor is an Application Security Specialist with over a decade of experience in secure application development and vulnerability assessment. He holds a Ph.D. in 
+Application Security from KTH Royal Institute of Technology (Sweden), where his research focused on secure-by-design applications, shift-left security, and the use of AI in cybersecurity. He specializes in source code analysis and comprehensive risk and vulnerability assessment using manual, automated, and AI-driven techniques, with a strong focus on modern architectures, including microservices and AI pipelines. His work supports critical security needs such as secure data sharing, data sovereignty, and compliance-driven application security.
 :::
 :::
 
@@ -71,7 +59,7 @@ Abdul Ghafoor is an Application Security Specialist with over a decade of experi
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/Marcin.jpg){width=80}
+![](img/marcin.jpg){width=80}
 :::
 ::: {.g-col-10}
 Marcin's doctoral studies have been focused on applying machine learning and AI to predicting protein features and mutation effects. Early on he became interested in xAI 
@@ -85,10 +73,13 @@ bioinformatics expert at NBIS.
 
 ::: {.grid}
 ::: {.g-col-2}
-![](img/john-doe.png){width=80}
+![](img/lars.jpg){width=80}
 :::
 ::: {.g-col-10}
-This demo course instance uses a simple team-level instructor entry to illustrate how a published
-previous course run can look in the template.
+Lars works in research support, specializing in personal sensitive data and HPC, while also providing expertise in areas such as software architecture, quality control, 
+theoretical chemistry, inorganic biochemistry, and related fields.
+His career began as a software developer, later he studied biology and completed a PhD in theoretical inorganic physical chemistry, combining theoretical and experimental chemistry. 
+He later worked in quality control at a pharmaceutical company, contributing to statistical sample analysis, requirements documentation, and spectroscopy and chromatography. 
+Subsequently, Lars moved into research support, working as an Application Expert for an HPC cluster in Sweden and as a domain specialist in sensitive research data.
 :::
 :::
