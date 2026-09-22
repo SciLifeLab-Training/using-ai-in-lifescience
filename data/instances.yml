@@ -5,5 +5,5 @@ instances:
     visible: true
     show_in_hero: true
     instance_url: "./2611/"
-    registration_url: "https://example.org/registration"
+    registration_url: "https://nextcloud.naiss.se/apps/forms/s/jcqF8weesKyBRPsRJ9ppKbkM"
     sort_key: 200000
