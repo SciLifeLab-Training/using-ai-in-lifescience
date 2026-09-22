@@ -17,7 +17,7 @@ Using AI in lifescience
 :::
 
 :::{.hero__subtitle}
-A primer
+a primer
 :::
 :::
 

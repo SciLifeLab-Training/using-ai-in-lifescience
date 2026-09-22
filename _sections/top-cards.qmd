@@ -8,13 +8,14 @@
 </div>
 
 :::{.card-copy}
-Description of the content of the course 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer pharetra vehicula est non feugiat. Maecenas nec cursus eros, at consectetur enim. Ut tincidunt eros ipsum, ut tempor tortor eleifend eu.   
-  
-Aliquam hendrerit dui tristique felis faucibus semper. Integer placerat, mauris id tempus ultricies, felis magna ultricies risus, nec ullamcorper nisi justo ut mi. Duis scelerisque molestie sollicitudin.  
-  
-Aliquam feugiat, neque in ultricies fermentum, tortor nunc dignissim nulla, non gravida dui quam pulvinar turpis. Donec id viverra dolor. 
+This course introduces you to using AI in lifescience. It covers a number of topics that you should be familiar with if you want to use AI consciously and responsibly in your work. We will introduce you to:
+ . 
+- working with agentic AI
+- cybersecurity challanges specific to AI-assisted work
+- explainable AI illustrated with real life examples
+- legal and ethical aspects of AI-assisted work
+    
+Throughout the course, we will be focusing on providing examples and illustrating new concepts using cases taken from lifescience such as lab practise, clinical medicine, pharmacy etc.
 :::
 :::
 
@@ -27,10 +28,15 @@ Aliquam feugiat, neque in ultricies fermentum, tortor nunc dignissim nulla, non 
 </div>
 
 :::{.card-copy}
-1. Learning outcome 1
-2. Learning outcome 2
-3. Learning outcome 3
-4. ...
+By the end of the course you will be able to: 
+  
+1. use agents to assist you with simple tasks
+2. identify potential cybersecurity threats and bottlenecks in AI-assisted work
+3. know how to mitigate the most common cybersecurity risks in their work
+4. understand what xAI is and be able to explain this concept
+5. know selected examples of xAI techniques used in lifescience
+6. evaluate legal and ethical aspects of AI workflows
+7. plan their AI workflows with ethical and legal perspective in mind
 :::
 :::
 
@@ -43,10 +49,11 @@ Aliquam feugiat, neque in ultricies fermentum, tortor nunc dignissim nulla, non 
 </div>
 
 :::{.card-copy}
-- Keyword 1
-- Keyword 2
-- Keyword 3
-- Keyword 4
+- xAI
+- ethical AI
+- AI in lifecsience
+- agentic AI
+- AI cybersecurity
 :::
 :::
 
