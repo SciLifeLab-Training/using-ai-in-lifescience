@@ -17,6 +17,7 @@ website:
       - index.qmd 
       - schedule.qmd
       - instructors.qmd
+      - text: "<hr>"
       - name:
           Agentic AI
         href: 1_agentic_ai.qmd
