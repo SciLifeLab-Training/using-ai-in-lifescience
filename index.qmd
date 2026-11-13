@@ -12,13 +12,13 @@ date: today
 **Date:**                          25 November 2026  
 **Location:**                      Online  
 **Enrollment opens:**              22 September 2026  
-**Enrollment closes:**             24 November 2026  
+**Enrollment closes:**             13 November 2026  
 **Course fee:**                    No fee
 
 :::
 
 
-[Register](https://nextcloud.naiss.se/apps/forms/s/jcqF8weesKyBRPsRJ9ppKbkM){.btn .btn-secondary}
+<!-- [Register](https://nextcloud.naiss.se/apps/forms/s/jcqF8weesKyBRPsRJ9ppKbkM){.btn .btn-secondary} -->
 
 
 
