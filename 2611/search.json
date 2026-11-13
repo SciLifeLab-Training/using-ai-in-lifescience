@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "instructors.html",
-    "href": "instructors.html",
-    "title": "Instructors",
-    "section": "",
-    "text": "Sweden AI Factory\n\nAshwin Mohanan, PhD\n\n\n\n\n\nAshwin is a researcher in applied artificial intelligence and contributes with his expertise to the following projects:\n\nSweden AI Factory (https://swedenaifactory.se/)\n\nEVITA (https://www.evitahpc.eu/)\n\nCodeRefinery (https://coderefinery.org/)\n\nENCCS (https://enccs.se)\n\nHe has a background in Mechanical and Aerospace Engineering and has a Ph.D. from Department of Engineering Mechanics, KTH wherein he studied flows in the atmosphere and the oceans. During his graduate studies he also became proficient in open-source development of scientific codes.\nPrior to his current role, Ashwin worked for 2.5 years in the Swedish Meteorological and Hydrological Institute (SMHI) as a scientific programmer where he was involved in applications and systems development for production of hydrological forecasts and developing an AI for data rescue of historical weather journals.\nThe combination of academic and industrial background allows him to find connections between the two worlds and solving complex problems. He is enthusiastic about training and providing technical assistance to enable a sustainable future for all.\n\n\n\n\nIvan Cucchi, PhD\n\n\n\n\n\nA mathematician by training, Ivan holds a Ph.D. in Computational Mathematics, Learning, and Data Science. His academic journey evolved from modeling cardiac electrophysiology and applying AI to ECG analysis, to merging scientific machine learning with structural bioinformatics. His core expertise lies in combining deep learning architectures with molecular dynamics to model biomolecular systems, evaluate protein stability, and classify ligands. Today, Ivan is an Application Specialist in AI for Life Science at Stockholm University and SciLifeLab, working within the Sweden AI Factory in collaboration with NAISS.\n\n\n\n\nAbdul Ghafoor, PhD\n\n\n\n\n\nAbdul Ghafoor is an Application Security Specialist with over a decade of experience in secure application development and vulnerability assessment. He holds a Ph.D. in Application Security from KTH Royal Institute of Technology (Sweden), where his research focused on secure-by-design applications, shift-left security, and the use of AI in cybersecurity. He specializes in source code analysis and comprehensive risk and vulnerability assessment using manual, automated, and AI-driven techniques, with a strong focus on modern architectures, including microservices and AI pipelines. His work supports critical security needs such as secure data sharing, data sovereignty, and compliance-driven application security.\n\n\n\n\n\nNBIS\n\nMarcin Kierczak, PhD\n\n\n\n\n\nMarcin’s doctoral studies have been focused on applying machine learning and AI to predicting protein features and mutation effects. Early on he became interested in xAI and worked with the development of novel feature selection and interdependency discovery methods. Later on he focused on statistical learning applied to population genomics and epistatic interactions. He is passionate about applying, developing and teaching xAI to lifescience community. Marcin is an associate professor in bioinformatics and bioinformatics expert at NBIS.\n\n\n\n\nLars Eklund, PhD\n\n\n\n\n\nLars works in research support, specializing in personal sensitive data and HPC, while also providing expertise in areas such as software architecture, quality control, theoretical chemistry, inorganic biochemistry, and related fields. His career began as a software developer, later he studied biology and completed a PhD in theoretical inorganic physical chemistry, combining theoretical and experimental chemistry. He later worked in quality control at a pharmaceutical company, contributing to statistical sample analysis, requirements documentation, and spectroscopy and chromatography. Subsequently, Lars moved into research support, working as an Application Expert for an HPC cluster in Sweden and as a domain specialist in sensitive research data."
-  },
-  {
     "objectID": "4_ethics_legal.html",
     "href": "4_ethics_legal.html",
     "title": "Ethics and Legal",
@@ -26,6 +19,34 @@
     "title": "Ethics and Legal",
     "section": "Contributors",
     "text": "Contributors\n\nLars Eklund"
+  },
+  {
+    "objectID": "3_xAI.html",
+    "href": "3_xAI.html",
+    "title": "xAI",
+    "section": "",
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nunderstand what Explainable AI (xAI) is, explain the concept, and recognize why it is particularly important in life sciences\nidentify relevant xAI techniques for selected real-world scenarios (e.g., lab practice, clinical medicine, pharmacy)"
+  },
+  {
+    "objectID": "3_xAI.html#lectures-and-materials",
+    "href": "3_xAI.html#lectures-and-materials",
+    "title": "xAI",
+    "section": "Lectures and Materials",
+    "text": "Lectures and Materials\n\nIntroduction to xAI: The “black box” problem and why transparency is crucial for trust in life sciences and healthcare\nxAI in Practice: Real-life examples of xAI techniques used to interpret biological data and clinical models\nInterpreting Explanations: What xAI really tells us vs. what we think it tells us\nSafety and Reliability: Can we trust xAI? Vulnerabilities and the illusion of explanation"
+  },
+  {
+    "objectID": "3_xAI.html#contributors",
+    "href": "3_xAI.html#contributors",
+    "title": "xAI",
+    "section": "Contributors",
+    "text": "Contributors\n\nIvan Cucchi\nMarcin Kierczak"
+  },
+  {
+    "objectID": "instructors.html",
+    "href": "instructors.html",
+    "title": "Instructors",
+    "section": "",
+    "text": "Sweden AI Factory\n\nAshwin Mohanan, PhD\n\n\n\n\n\nAshwin is a researcher in applied artificial intelligence and contributes with his expertise to the following projects:\n\nSweden AI Factory (https://swedenaifactory.se/)\n\nEVITA (https://www.evitahpc.eu/)\n\nCodeRefinery (https://coderefinery.org/)\n\nENCCS (https://enccs.se)\n\nHe has a background in Mechanical and Aerospace Engineering and has a Ph.D. from Department of Engineering Mechanics, KTH wherein he studied flows in the atmosphere and the oceans. During his graduate studies he also became proficient in open-source development of scientific codes.\nPrior to his current role, Ashwin worked for 2.5 years in the Swedish Meteorological and Hydrological Institute (SMHI) as a scientific programmer where he was involved in applications and systems development for production of hydrological forecasts and developing an AI for data rescue of historical weather journals.\nThe combination of academic and industrial background allows him to find connections between the two worlds and solving complex problems. He is enthusiastic about training and providing technical assistance to enable a sustainable future for all.\n\n\n\n\nIvan Cucchi, PhD\n\n\n\n\n\nA mathematician by training, Ivan holds a Ph.D. in Computational Mathematics, Learning, and Data Science. His academic journey evolved from modeling cardiac electrophysiology and applying AI to ECG analysis, to merging scientific machine learning with structural bioinformatics. His core expertise lies in combining deep learning architectures with molecular dynamics to model biomolecular systems, evaluate protein stability, and classify ligands. Today, Ivan is an Application Specialist in AI for Life Science at Stockholm University and SciLifeLab, working within the Sweden AI Factory in collaboration with NAISS.\n\n\n\n\nAbdul Ghafoor, PhD\n\n\n\n\n\nAbdul Ghafoor is an Application Security Specialist with over a decade of experience in secure application development and vulnerability assessment. He holds a Ph.D. in Application Security from KTH Royal Institute of Technology (Sweden), where his research focused on secure-by-design applications, shift-left security, and the use of AI in cybersecurity. He specializes in source code analysis and comprehensive risk and vulnerability assessment using manual, automated, and AI-driven techniques, with a strong focus on modern architectures, including microservices and AI pipelines. His work supports critical security needs such as secure data sharing, data sovereignty, and compliance-driven application security.\n\n\n\n\n\nNBIS\n\nMarcin Kierczak, PhD\n\n\n\n\n\nMarcin’s doctoral studies have been focused on applying machine learning and AI to predicting protein features and mutation effects. Early on he became interested in xAI and worked with the development of novel feature selection and interdependency discovery methods. Later on he focused on statistical learning applied to population genomics and epistatic interactions. He is passionate about applying, developing and teaching xAI to lifescience community. Marcin is an associate professor in bioinformatics and bioinformatics expert at NBIS.\n\n\n\n\nLars Eklund, PhD\n\n\n\n\n\nLars works in research support, specializing in personal sensitive data and HPC, while also providing expertise in areas such as software architecture, quality control, theoretical chemistry, inorganic biochemistry, and related fields. His career began as a software developer, later he studied biology and completed a PhD in theoretical inorganic physical chemistry, combining theoretical and experimental chemistry. He later worked in quality control at a pharmaceutical company, contributing to statistical sample analysis, requirements documentation, and spectroscopy and chromatography. Subsequently, Lars moved into research support, working as an Application Expert for an HPC cluster in Sweden and as a domain specialist in sensitive research data."
   },
   {
     "objectID": "2_cybersecurity.html",
@@ -49,41 +70,6 @@
     "text": "Contributors\n\nAbdul Ghafoor"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Using AI in lifescience - A primer",
-    "section": "",
-    "text": "About\n\n\n\nOrganizers: Sweden AI Factory, NBIS, SciLifeLab Training Hub\nDate: 25 November 2026\nLocation: Online\nEnrollment opens: 22 September 2026\nEnrollment closes: 24 November 2026\nCourse fee: No fee\nRegister\nCourse contact: traininghub@scilifelab.se"
-  },
-  {
-    "objectID": "index.html#course-description",
-    "href": "index.html#course-description",
-    "title": "Using AI in lifescience - A primer",
-    "section": "Course description",
-    "text": "Course description\nThis course introduces you to using AI in lifescience. It covers a number of topics that you should be familiar with if you want to use AI consciously and responsibly in your work. We will introduce you to:\n\nworking with agentic AI\ncybersecurity challenges specific to AI-assisted work\nexplainable AI illustrated with real life examples\nlegal and ethical aspects of AI-assisted work\n\nThroughout the course, we will be focusing on providing examples and illustrating new concepts using cases taken from lifescience such as lab practise, clinical medicine, pharmacy etc."
-  },
-  {
-    "objectID": "index.html#learning-objectives-and-learning-outcomes",
-    "href": "index.html#learning-objectives-and-learning-outcomes",
-    "title": "Using AI in lifescience - A primer",
-    "section": "Learning Objectives and Learning Outcomes",
-    "text": "Learning Objectives and Learning Outcomes\n\nLearning Objectives\n\nto understand the basics of agentic work\nto be aware of AI-specific cybersecurity challenges and threats and how to prevent them\nto understand what xAI is and why it is particularly important in lifescience\nto be aware of legal implications and challenges related to using AI in your work\nto be aware of ethical aspects of AI-assisted work\n\n\n\nLearning Outcomes\nBy the end of this course, learners will be able to:\n\nuse agents to assist you with simple tasks\nidentify potential cybersecurity threats in AI-assisted work\nknow how to mitigate the most common cybersecurity risks in their work\nunderstand what xAI is and be able to explain this concept\nknow selected examples of xAI techniques used in lifescience\nevaluate legal and ethical aspects of AI workflows\nplan their AI workflows with ethical and legal perspective in mind"
-  },
-  {
-    "objectID": "index.html#target-audience-and-course-prerequisites",
-    "href": "index.html#target-audience-and-course-prerequisites",
-    "title": "Using AI in lifescience - A primer",
-    "section": "Target audience and course prerequisites",
-    "text": "Target audience and course prerequisites\nTarget audience: doctoral students, postdocs, research support staff\nCourse prerequisites: none\nLevel: beginner/intermediate"
-  },
-  {
-    "objectID": "index.html#forms-of-instruction-and-examination",
-    "href": "index.html#forms-of-instruction-and-examination",
-    "title": "Using AI in lifescience - A primer",
-    "section": "Forms of instruction and examination",
-    "text": "Forms of instruction and examination\nForms of instruction: Lectures, group activities\nLanguage: English\nExamination: Active participation in all sessions and group assignments"
-  },
-  {
     "objectID": "materials/index.html#slide-header",
     "href": "materials/index.html#slide-header",
     "title": "Template Presentation",
@@ -96,13 +82,6 @@
     "title": "Template Presentation",
     "section": "Slide header",
     "text": "Slide header\n\n\n\ntable\ntable\n\n\n\n\ntable\ntable\n\n\n\n\n\nShort title | John Doe"
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "Wednesday 25 November 2026\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:00 - 10:15\nAgentic AI\n\n\n10:15 - 10:45\nBreak\n\n\n10:45 - 12:00\nCybersecurity\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 14:15\nxAI\n\n\n14:15 - 14:45\nBreak\n\n\n14:45 - 16:00\nEthics and Legal"
   },
   {
     "objectID": "1_agentic_ai.html",
@@ -133,24 +112,45 @@
     "text": "Contributors\n\nAshwin Mohanan"
   },
   {
-    "objectID": "3_xAI.html",
-    "href": "3_xAI.html",
-    "title": "xAI",
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
     "section": "",
-    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nunderstand what Explainable AI (xAI) is, explain the concept, and recognize why it is particularly important in life sciences\nidentify relevant xAI techniques for selected real-world scenarios (e.g., lab practice, clinical medicine, pharmacy)"
+    "text": "Wednesday 25 November 2026\n\n\n\n\n\n\n\nTime\nSession\n\n\n\n\n09:00 - 10:15\nAgentic AI\n\n\n10:15 - 10:45\nBreak\n\n\n10:45 - 12:00\nCybersecurity\n\n\n12:00 - 13:00\nLunch\n\n\n13:00 - 14:15\nxAI\n\n\n14:15 - 14:45\nBreak\n\n\n14:45 - 16:00\nEthics and Legal"
   },
   {
-    "objectID": "3_xAI.html#lectures-and-materials",
-    "href": "3_xAI.html#lectures-and-materials",
-    "title": "xAI",
-    "section": "Lectures and Materials",
-    "text": "Lectures and Materials\n\nIntroduction to xAI: The “black box” problem and why transparency is crucial for trust in life sciences and healthcare\nxAI in Practice: Real-life examples of xAI techniques used to interpret biological data and clinical models\nInterpreting Explanations: What xAI really tells us vs. what we think it tells us\nSafety and Reliability: Can we trust xAI? Vulnerabilities and the illusion of explanation"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Using AI in lifescience - A primer",
+    "section": "",
+    "text": "About\n\n\n\nOrganizers: Sweden AI Factory, NBIS, SciLifeLab Training Hub\nDate: 25 November 2026\nLocation: Online\nEnrollment opens: 22 September 2026\nEnrollment closes: 13 November 2026\nCourse fee: No fee\nCourse contact: traininghub@scilifelab.se"
   },
   {
-    "objectID": "3_xAI.html#contributors",
-    "href": "3_xAI.html#contributors",
-    "title": "xAI",
-    "section": "Contributors",
-    "text": "Contributors\n\nIvan Cucchi\nMarcin Kierczak"
+    "objectID": "index.html#course-description",
+    "href": "index.html#course-description",
+    "title": "Using AI in lifescience - A primer",
+    "section": "Course description",
+    "text": "Course description\nThis course introduces you to using AI in lifescience. It covers a number of topics that you should be familiar with if you want to use AI consciously and responsibly in your work. We will introduce you to:\n\nworking with agentic AI\ncybersecurity challenges specific to AI-assisted work\nexplainable AI illustrated with real life examples\nlegal and ethical aspects of AI-assisted work\n\nThroughout the course, we will be focusing on providing examples and illustrating new concepts using cases taken from lifescience such as lab practise, clinical medicine, pharmacy etc."
+  },
+  {
+    "objectID": "index.html#learning-objectives-and-learning-outcomes",
+    "href": "index.html#learning-objectives-and-learning-outcomes",
+    "title": "Using AI in lifescience - A primer",
+    "section": "Learning Objectives and Learning Outcomes",
+    "text": "Learning Objectives and Learning Outcomes\n\nLearning Objectives\n\nto understand the basics of agentic work\nto be aware of AI-specific cybersecurity challenges and threats and how to prevent them\nto understand what xAI is and why it is particularly important in lifescience\nto be aware of legal implications and challenges related to using AI in your work\nto be aware of ethical aspects of AI-assisted work\n\n\n\nLearning Outcomes\nBy the end of this course, learners will be able to:\n\nuse agents to assist you with simple tasks\nidentify potential cybersecurity threats in AI-assisted work\nknow how to mitigate the most common cybersecurity risks in their work\nunderstand what xAI is and be able to explain this concept\nknow selected examples of xAI techniques used in lifescience\nevaluate legal and ethical aspects of AI workflows\nplan their AI workflows with ethical and legal perspective in mind"
+  },
+  {
+    "objectID": "index.html#target-audience-and-course-prerequisites",
+    "href": "index.html#target-audience-and-course-prerequisites",
+    "title": "Using AI in lifescience - A primer",
+    "section": "Target audience and course prerequisites",
+    "text": "Target audience and course prerequisites\nTarget audience: doctoral students, postdocs, research support staff\nCourse prerequisites: none\nLevel: beginner/intermediate"
+  },
+  {
+    "objectID": "index.html#forms-of-instruction-and-examination",
+    "href": "index.html#forms-of-instruction-and-examination",
+    "title": "Using AI in lifescience - A primer",
+    "section": "Forms of instruction and examination",
+    "text": "Forms of instruction and examination\nForms of instruction: Lectures, group activities\nLanguage: English\nExamination: Active participation in all sessions and group assignments"
   }
 ]
