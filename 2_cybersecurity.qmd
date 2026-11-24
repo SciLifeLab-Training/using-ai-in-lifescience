@@ -1,7 +1,8 @@
 ---
-title: "Cybersecurity"
+topic: "Cybersecurity"
+title : "AI agents in the research workspace: risks, threats and mitigation"
 author: "Abdul Ghafoor"
-date: 2026-09-15
+date: 2026-11-24
 ---
 
 ::: {.callout-tip}
