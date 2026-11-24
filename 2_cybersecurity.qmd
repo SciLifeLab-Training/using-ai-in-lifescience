@@ -19,7 +19,7 @@ By the end of this session, learners will be able to:
 
 ## Lectures and Materials
 
-- Slides [[pptx](materials/cybersecurity/Cybersecurity_Using_AI_in_lifescience_A_primer.pptx)]
+- Slides [[pptx](materials/cybersecurity/Cybersecurity_Using_AI_in_lifescience_A_primer.pptx)], [[pdf](materials/Cybersecurity_Using_AI_in_lifescience_A_primer.pdf)]
 
 ## Contributors
 
