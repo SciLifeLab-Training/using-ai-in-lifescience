@@ -2,6 +2,10 @@ project:
   type: website
   resources:
     - img/
+    - materials/xAI/assets/
+    - materials/xAI/figures/
+    - materials/xAI/xai_lifesci_files/
+    - materials/xAI/xai_lifesci_extras_files/
 
 # Release deploy target is derived from the branch name (`release-YYMM` -> `YYMM/`).
 # This file only configures the Quarto course site itself.
