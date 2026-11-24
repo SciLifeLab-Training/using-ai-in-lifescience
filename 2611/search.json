@@ -32,7 +32,7 @@
     "href": "3_xAI.html#lectures-and-materials",
     "title": "xAI",
     "section": "Lectures and Materials",
-    "text": "Lectures and Materials\nThe following topics are covered I our slides and extras:\n\nIntroduction to xAI: The “black box” problem and why transparency is crucial for trust in life sciences and healthcare\nxAI in Practice: Real-life examples of xAI techniques used to interpret biological data and clinical models\nInterpreting Explanations: What xAI really tells us vs. what we think it tells us\nSafety and Reliability: Can we trust xAI? Vulnerabilities and the illusion of explanation"
+    "text": "Lectures and Materials\n\nSlides [html], [pdf]\nExtras [html], [pdf]"
   },
   {
     "objectID": "3_xAI.html#contributors",
