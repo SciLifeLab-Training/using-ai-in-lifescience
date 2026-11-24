@@ -12,4 +12,6 @@ __pycache__/
 .venv/
 .DS_Store
 *_files/
+!materials/xAI/xai_lifesci_files/
+!materials/xAI/xai_lifesci_extras_files/
 /private/
