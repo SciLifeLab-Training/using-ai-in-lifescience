@@ -15,10 +15,13 @@ By the end of this session, learners will be able to:
 
 ## Lectures and Materials
 
+The following topics are covered I our [slides](materials/xAI/xai_lifesci.pdf) and [extras](materials/xAI/xai_lifesci_extras.pdf):
+
 - **Introduction to xAI:** The "black box" problem and why transparency is crucial for trust in life sciences and healthcare
 - **xAI in Practice:** Real-life examples of xAI techniques used to interpret biological data and clinical models
 - **Interpreting Explanations:** What xAI really tells us vs. what we *think* it tells us
 - **Safety and Reliability:** Can we trust xAI? Vulnerabilities and the illusion of explanation
+
 
 ## Contributors
 
