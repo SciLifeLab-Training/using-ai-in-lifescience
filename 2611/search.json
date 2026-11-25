@@ -88,21 +88,14 @@
     "href": "1_agentic_ai.html",
     "title": "Agentic AI",
     "section": "",
-    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nUnderstand what an LLM is and differences between properietary and open-weight models\nExplain key features of Agentic AI workflow (permissions, context engineering, tool-calling, system prompt, skills etc)\nUnderstand pros- and cons- of various context engineering techniques."
+    "text": "Learning Objectives\n\n\n\nBy the end of this session, learners will be able to:\n\nUnderstand what an LLM is and differences between properietary and open-weight models\nExplain the key stages of an agentic AI workflow (permissions, context engineering, tool-calling, system prompts, skills, etc.)\nUnderstand pros and cons of various context engineering techniques used in agentic workflows."
   },
   {
     "objectID": "1_agentic_ai.html#lectures-and-materials",
     "href": "1_agentic_ai.html#lectures-and-materials",
     "title": "Agentic AI",
     "section": "Lectures and Materials",
-    "text": "Lectures and Materials\nTentative\n\nIntroduction to LLMs\nAgentic AI core concepts\nAgentic AI fundamentals through the lens of a AI coding harness"
-  },
-  {
-    "objectID": "1_agentic_ai.html#slides",
-    "href": "1_agentic_ai.html#slides",
-    "title": "Agentic AI",
-    "section": "Slides",
-    "text": "Slides"
+    "text": "Lectures and Materials\n\nSlides [html], [pdf]"
   },
   {
     "objectID": "1_agentic_ai.html#contributors",
