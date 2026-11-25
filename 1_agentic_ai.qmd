@@ -10,19 +10,13 @@ date: today
 By the end of this session, learners will be able to:
 
 - Understand what an LLM is and differences between properietary and open-weight models
-- Explain key features of Agentic AI workflow (permissions, context engineering, tool-calling, system prompt, skills etc)
-- Understand pros- and cons- of various context engineering techniques.
+- Explain the key stages of an agentic AI workflow (permissions, context engineering, tool-calling, system prompts, skills, etc.)
+- Understand pros and cons of various context engineering techniques used in agentic workflows.
 :::
 
 ## Lectures and Materials
 
-Tentative
-
-- Introduction to LLMs
-- Agentic AI core concepts
-- Agentic AI fundamentals through the lens of a AI coding harness
-
-## Slides
+- Slides [[html](materials/agentic-ai/index.html)], [[pdf](materials/agentic-ai/index.pdf)]
 
 <!-- iframe src="materials/index.html" width="100%" height="300px" style="border: none;"></iframe -->
 
