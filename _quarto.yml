@@ -2,6 +2,7 @@ project:
   type: website
   resources:
     - img/
+    - materials/agentic-ai/
     - materials/xAI/assets/
     - materials/xAI/figures/
     - materials/xAI/xai_lifesci_files/
